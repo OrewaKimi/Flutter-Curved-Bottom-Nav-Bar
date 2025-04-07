@@ -12,13 +12,18 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor:Colors.deepPurple,
+      backgroundColor: Colors.deepPurple,
       bottomNavigationBar: CurvedNavigationBar(
         backgroundColor: Colors.deepPurple,
+        color: Colors.deepPurple.shade200,
+        animationDuration: Duration(milliseconds: 300),
+        onTap: (index) {
+          print(index);
+        },
         items: [
-          Icon(Icons.home),
-          Icon(Icons.favorite),
-          Icon(Icons.settings),
+          Icon(Icons.home, color: Colors.white),
+          Icon(Icons.favorite, color: Colors.white),
+          Icon(Icons.settings, color: Colors.white),
         ],
       ),
     );
