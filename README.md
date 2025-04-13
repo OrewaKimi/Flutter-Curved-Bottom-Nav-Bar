@@ -1,4 +1,3 @@
-# curved_bottom_navbar_flutter
 # 📱 Flutter: Stateless vs Stateful + Curved Navigation Bar
 
 Proyek ini adalah contoh sederhana dari perbedaan antara **StatelessWidget** dan **StatefulWidget** dalam Flutter, ditambah dengan implementasi UI modern menggunakan **Curved Navigation Bar**. Stylish dan fungsional! 😉
@@ -41,4 +40,8 @@ Aplikasi ini menampilkan:
 
 ---
 
+## 🚀 Jalankan Proyek
 
+```bash
+flutter pub get
+flutter run
