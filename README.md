@@ -1,27 +1,30 @@
+# 📱 Curved Bottom Navigation App (Flutter)
 
+## 🌈 Apa itu `curved_navigation_bar`?
+
+Bottom Navigation Bar biasanya tampil datar-datar aja, kan?  
+Nah, `curved_navigation_bar` bikin tampilannya jadi **melengkung** dengan animasi bawaan yang halus dan kece.
+
+Bayangin kamu bikin app, terus di bagian bawahnya ada tombol-tombol navigasi yang kelihatan *clean & stylish* — itulah kekuatan package ini.
+
+---
+
+## ✨ Kenapa Harus Coba?
+
+- ✅ Desain **lebih modern dan unik**
+- 🎨 Bisa diubah warna, animasi, dan ikon sesukamu
+- 🔥 Built-in animation tanpa setup ribet
+- 🧠 Cocok buat pemula maupun pro
+
+---
+
+## 📸 Tampilan Aplikasi
 ![image](https://github.com/user-attachments/assets/8818a078-be49-4d75-9f0c-ec8c5e4f5089)
 
-# 📱 Flutter Curved Bottom Navbar + Stateless vs Stateful
-Proyek ini adalah contoh sederhana tapi kece yang menunjukkan perbedaan antara **StatelessWidget** dan **StatefulWidget**, dilengkapi dengan **Curved Bottom Navigation Bar** untuk UI yang modern dan interaktif.
-
 ---
 
-## 🎯 Tujuan
+## 🚀 Jalankan Proyek
 
-- Memahami perbedaan **Stateless** dan **Stateful**
-- Menampilkan contoh nyata penggunaan keduanya dalam 1 aplikasi
-- Menggunakan package `curved_navigation_bar` untuk tampilan bawah yang melengkung
-
----
-
-## 🧠 Penjelasan Singkat
-
-### StatelessWidget
-> Widget yang tampilannya **nggak berubah**.  
-Dipakai untuk UI statis, seperti judul, ikon, atau logo.
-
-### StatefulWidget
-> Widget yang punya **state** alias data yang bisa berubah.  
-Cocok buat UI interaktif kayak navigasi, counter, dan animasi.
-
----
+```bash
+flutter pub get
+flutter run
