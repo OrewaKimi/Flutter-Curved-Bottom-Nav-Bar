@@ -17,7 +17,11 @@ Bayangin kamu bikin app, terus di bagian bawahnya ada tombol-tombol navigasi yan
 - 🧠 Cocok buat pemula maupun pro
 
 ---
+## 🔧 Cara Install
 
+1. Tambahkan di `pubspec.yaml`: dependencies: curved_navigation_bar: ^1.0.3  # atau versi terbaru
+---  
+  
 ## 📸 Tampilan Aplikasi
 ![image](https://github.com/user-attachments/assets/8818a078-be49-4d75-9f0c-ec8c5e4f5089)
 
