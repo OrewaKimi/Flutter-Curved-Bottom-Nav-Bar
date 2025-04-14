@@ -5,7 +5,7 @@
 Bottom Navigation Bar biasanya tampil datar-datar aja, kan?  
 Nah, `curved_navigation_bar` bikin tampilannya jadi **melengkung** dengan animasi bawaan yang halus dan kece.
 
-Bayangin kamu bikin app, terus di bagian bawahnya ada tombol-tombol navigasi yang kelihatan *clean & stylish* — itulah kekuatan package ini.
+Bayangin kamu bikin app, terus di bagian bawahnya ada tombol-tombol navigasi yang kelihatan *clean & stylish* itulah kekuatan package ini.
 
 ---
 
