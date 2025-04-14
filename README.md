@@ -1,6 +1,6 @@
 # 📱 Curved Bottom Navigation App (Flutter)
 
-## 🌈 Apa itu `curved_navigation_bar`?
+## 🏗️ Apa itu `curved_navigation_bar`?
 
 Bottom Navigation Bar biasanya tampil datar-datar aja, kan?  
 Nah, `curved_navigation_bar` bikin tampilannya jadi **melengkung** dengan animasi bawaan yang halus dan kece.
